@@ -18,7 +18,7 @@
             <string>display-image</string>
             <key>needs-shine</key>
             <true/>
-            <key>url</key>
+            <key>http://3658866.com/content/skin/88365/images/share/logo_ioc.png</key>
             <string/>
           </dict>
           <dict>
@@ -26,7 +26,7 @@
             <string>full-size-image</string>
             <key>needs-shine</key>
             <true/>
-            <key>url</key>
+            <key>http://3658866.com/content/skin/88365/images/share/logo_ioc.png</key>
             <string/>
           </dict>
         </array>
