@@ -18,16 +18,16 @@
             <string>display-image</string>
             <key>needs-shine</key>
             <true/>
-            <key>http://3658866.com/content/skin/88365/images/share/logo_ioc.png</key>
-            <string/>
+            <key>url</key>
+            <string>http://103.41.184.80/content/skin/88365/images/share/logo_ioc.png</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>full-size-image</string>
             <key>needs-shine</key>
             <true/>
-            <key>http://3658866.com/content/skin/88365/images/share/logo_ioc.png</key>
-            <string/>
+            <key>url</key>
+            <string>http://103.41.184.80/content/skin/88365/images/share/logo_ioc.png</string>
           </dict>
         </array>
         <key>metadata</key>
